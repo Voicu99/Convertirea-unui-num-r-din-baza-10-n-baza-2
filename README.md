@@ -1,0 +1,1 @@
+# Convertirea unui număr din baza 10 în baza 2
